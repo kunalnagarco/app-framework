@@ -1,0 +1,9 @@
+- Browser normalization
+  - Abstract away differences in browsers with common interface
+- General purpose utilities
+  - Parsers/serializers for XML, JSON etc
+  - Object manipulation
+  - DOM manipulation
+  - Ajax communication
+- Provide low-level extensibility
+  - Add something like browser detection, it gets added as a plugin to the base-library
